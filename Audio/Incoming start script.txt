@@ -1,0 +1,52 @@
+﻿Welcome to incoming!
+
+
+This is your left sound:*play left sound*
+
+
+This is your right sound:*play right sound*
+
+
+Your goal is to avoid the space ships
+The ships sound like this: *play left and right sound*
+
+
+When you hear the sound from your left
+slide your finger to the right side of the screen
+The same rules apply for when you hear a sound on your right
+
+
+When you’re ready to play tap the top half of your screen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Welcome to incoming!
+
+
+This is the left side of the vest: *have left side vibrate*
+
+
+This is the right side of the best: *vibrate right*
+
+
+Your goal is to avoid the space ships
+The ships feel like this:*vibrate left then right*
+
+
+When you feel the vibration on the left, that means there’s a ship on the left
+slide your finger to the right side of the screen to avoid the ship
+The same applied for the right side vibrations
+
+
+When you’re ready to play tap the top half of your screen
